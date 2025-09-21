@@ -37,3 +37,7 @@ Business performance analysis
 Sales forecasting & profitability tracking
 
 Creating interactive dashboards for decision-making
+
+
+## Dashboard
+<img width="1274" height="655" alt="Screenshot 2025-09-22 015439" src="https://github.com/user-attachments/assets/b7bbb8be-f71c-4dff-b41c-40231bb08b4d" />
